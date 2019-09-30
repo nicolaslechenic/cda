@@ -1,6 +1,6 @@
 ## Règles du jeu
 
-Votre client souhaite que vous réalisiez un programme qui affichera un couplet de sa musique préférée "99 shooters sans alcool" dépendant du nombre de shooters en entré. 
+Votre client souhaite que vous réalisiez un programme qui affichera un couplet de sa musique préférée *99 shooters sans alcool* dépendant du nombre de shooters en entrée. 
 Ce nombre sera compris entre 0 et 99 comme pouvez le [voir ici](SONG.md).
 
 Exemples de solutions :
