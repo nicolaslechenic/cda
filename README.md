@@ -18,7 +18,7 @@ Pour cela vous êtes libre du langage utilisé ainsi que de l'interface qui perm
 
 ```md
 `n` shooters sans alcool sur le mur, `n` shooters sans alcool.
-Bois en un et passe au suivant, `n - 1` shooters sans alcool sur le mur.
+Bois en un et au suivant ! `n - 1` shooters sans alcool sur le mur.
 ```
 
 **Attention cependant :**
