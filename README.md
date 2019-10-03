@@ -41,6 +41,6 @@ Vas au supermarché pour en acheter, 99 shooters sans alcool sur le mur.
 
 ## Mot de la fin
 
-À la fin de cet exercice, vous devez nous partager votre code pour qu'on le test via adresse@email.com. Il faudra donc que votre code soit de qualité et facile à prendre en main !
+À la fin de cet exercice, vous devez nous partager votre code pour qu'on le test via cda-greta@dlaoctet.net. Il faudra donc que votre code soit de qualité et facile à prendre en main !
 
 À vous de jouer !
